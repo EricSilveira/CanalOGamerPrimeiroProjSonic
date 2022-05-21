@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: ec728fadb550e284d9ef441d7cdac712
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2574182128923888139
+    second: ring fullhd_0
+  - first:
+      213: -2294087394968144938
+    second: ring fullhd_1
+  - first:
+      213: 1998622623157251827
+    second: ring fullhd_2
+  - first:
+      213: 8678617949699235521
+    second: ring fullhd_3
+  - first:
+      213: -3046372441197698176
+    second: ring fullhd_4
+  - first:
+      213: -4748045788633128903
+    second: ring fullhd_5
+  - first:
+      213: -320642744455564641
+    second: ring fullhd_6
+  - first:
+      213: -880977081954696790
+    second: ring fullhd_7
+  - first:
+      213: -2044757708967032577
+    second: ring fullhd_8
+  - first:
+      213: 6289355325707878125
+    second: ring fullhd_9
+  - first:
+      213: -8239194491882420414
+    second: ring fullhd_10
+  - first:
+      213: 3367732112694431100
+    second: ring fullhd_11
+  - first:
+      213: 1501326162605434012
+    second: ring fullhd_12
+  - first:
+      213: 2744672753243318234
+    second: ring fullhd_13
+  - first:
+      213: 1933715934304583195
+    second: ring fullhd_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ring fullhd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 784
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0acaa5f10559b320800000000000000
+      internalID: 2574182128923888139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_1
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 30
+        width: 754
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f83b3ba3c920e0800000000000000
+      internalID: -2294087394968144938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_2
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 19
+        width: 710
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee855cfa88cbb10800000000000000
+      internalID: 1998622623157251827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_3
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 30
+        width: 654
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ced6214b05a07870800000000000000
+      internalID: 8678617949699235521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_4
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 30
+        width: 578
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0832fd4b76c19b5d0800000000000000
+      internalID: -3046372441197698176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_5
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 486
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ab3fe28d8b1eb0800000000000000
+      internalID: -4748045788633128903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_6
+      rect:
+        serializedVersion: 2
+        x: 4975
+        y: 8
+        width: 382
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927bec6f19dc8bf0800000000000000
+      internalID: -320642744455564641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_7
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 0
+        width: 279
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa184d6f20426c3f0800000000000000
+      internalID: -880977081954696790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_8
+      rect:
+        serializedVersion: 2
+        x: 5893
+        y: 0
+        width: 344
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8474182bf8f93e0800000000000000
+      internalID: -2044757708967032577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_9
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 19
+        width: 486
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee7707a857484750800000000000000
+      internalID: 6289355325707878125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_10
+      rect:
+        serializedVersion: 2
+        x: 7046
+        y: 0
+        width: 578
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2474ef3434088ad80800000000000000
+      internalID: -8239194491882420414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_11
+      rect:
+        serializedVersion: 2
+        x: 7794
+        y: 52
+        width: 654
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc3d373869cbe20800000000000000
+      internalID: 3367732112694431100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_12
+      rect:
+        serializedVersion: 2
+        x: 8636
+        y: 41
+        width: 710
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94e816c038c5d410800000000000000
+      internalID: 1501326162605434012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_13
+      rect:
+        serializedVersion: 2
+        x: 9499
+        y: 52
+        width: 754
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e2c1c359071620800000000000000
+      internalID: 2744672753243318234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring fullhd_14
+      rect:
+        serializedVersion: 2
+        x: 10406
+        y: 52
+        width: 784
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ebcb0a560f5da10800000000000000
+      internalID: 1933715934304583195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
